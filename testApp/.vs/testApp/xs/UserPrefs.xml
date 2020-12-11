@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/UserImageModel.cs">
+    <Files>
+      <File FileName="Pages/AddImagePage.xaml" Line="1" Column="1" />
+      <File FileName="Services/ApiService.cs" />
+      <File FileName="Models/Comment.cs" />
+      <File FileName="Models/DishDetail.cs" />
+      <File FileName="Models/DishImage.cs" />
+      <File FileName="Models/DishType.cs" />
+      <File FileName="Models/LoginModel.cs" />
+      <File FileName="Models/MyPost.cs" />
+      <File FileName="Models/Post.cs" />
+      <File FileName="Models/RegisterModel.cs" />
+      <File FileName="Models/Token.cs" />
+      <File FileName="Models/UserImageModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testApp" expanded="True">
+            <Node name="testApp" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="UserImageModel.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

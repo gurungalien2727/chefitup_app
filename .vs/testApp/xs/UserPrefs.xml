@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{70393906-A1CD-443F-9531-2F0567F6A87E}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testApp/Pages/AddImagePage.xaml">
+    <Files>
+      <File FileName="testApp/Pages/AddImagePage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testApp" expanded="True">
+            <Node name="testApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="AddImagePage.xaml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="testApp.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+            </Node>
+            <Node name="testApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testApp.iOS Xamarin.HotReload.WrongLinkerErrorInfoBar.testApp.iOS.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.719B9EF1-A5D9-4D72-AED7-1E83EC39AF2A" />
+  <MonoDevelop.Ide.ItemProperties.testApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aliengurung/Desktop/testApp/testApp/Pages/LogPage.xaml.cs" relfile="testApp/Pages/LogPage.xaml.cs" line="40" column="1" />
+      <Breakpoint file="/Users/aliengurung/Desktop/testApp/testApp/Pages/LogPage.xaml.cs" relfile="testApp/Pages/LogPage.xaml.cs" line="43" column="1" />
+      <Breakpoint file="/Users/aliengurung/Desktop/testApp/testApp/Pages/LogPage.xaml.cs" relfile="testApp/Pages/LogPage.xaml.cs" line="47" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

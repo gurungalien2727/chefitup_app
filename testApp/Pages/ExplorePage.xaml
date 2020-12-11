@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             mc:Ignorable="d"
+             x:Class="testApp.Pages.ExplorePage">
+    <ContentPage.Content>
+        
+         
+        <StackLayout Padding="10" Margin="0,25,0,0">
+           
+            <CollectionView x:Name="dishes"
+                            SelectionMode="Single"
+                            SelectionChanged="dishes_SelectionChanged">
+                
+                <CollectionView.ItemsLayout >
+                    <GridItemsLayout Orientation="Vertical"
+                                     Span="1" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <ContentView Padding="2">
+                            <Frame Padding="0"
+                                   CornerRadius="2"
+                                   Margin="0,0,0,15"
+                                   >
+                                <StackLayout Spacing="5">
+                                    <forms:CachedImage Aspect="AspectFill"
+                                                       LoadingPlaceholder="placeholder.png"
+                                                       Source="{Binding FullImageUrl}"/>
+                                    <Label Margin="0,0,0,10"
+                                           TextColor="#303F9F"
+                                           HorizontalTextAlignment="Center"
+                                           HorizontalOptions="Center"
+                                           Text="{Binding title} "  />
+                                    <StackLayout Orientation="Horizontal">
+                                        <Button Text="Like" Clicked="Button_Clicked">
+                                           
+                                    </Button>
+                                      
+                                    <Button Text="Comment" Clicked="Button_Clicked_1"></Button>
+                                      
+                                    </StackLayout>
+                                    
+                                </StackLayout>
+                            </Frame>
+                        </ContentView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+              
+         
+    </ContentPage.Content>
+</ContentPage>

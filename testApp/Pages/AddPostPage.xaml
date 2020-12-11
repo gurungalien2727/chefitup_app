@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             NavigationPage.HasNavigationBar="False"
+             x:Class="testApp.Pages.SellPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Spacing="10">
+                <Label HorizontalTextAlignment="Center"
+                       FontSize="Large"
+                       Text="Share your Dish" />
+                <BoxView HeightRequest="1"
+                         BackgroundColor="Black" />
+                <StackLayout Margin="15">
+                  
+                   
+                    <Label HorizontalTextAlignment="Start"
+                           FontSize="Medium"
+                           Text="Dish Name" />
+                    <Entry x:Name="Dish" />
+                  
+                   
+                    <Label HorizontalTextAlignment="Start"
+                           FontSize="Medium"
+                           Text="Prepared By" />
+                   
+                  
+                    <Entry x:Name="Name" />
+
+
+                    <Label HorizontalTextAlignment="Start"
+                           FontSize="Medium"
+                           Text="Add Instructions" />
+                    <Editor HeightRequest="100"
+                            AutoSize="Disabled"
+                            Placeholder="Type the description of your vehicle"
+                            x:Name="Instructions" />
+                    <Label HorizontalTextAlignment="Start"
+                           FontSize="Medium"
+                           Text="Add Ingredients" />
+                    <Editor HeightRequest="100"
+                            AutoSize="Disabled"
+                            Placeholder="Type the description of your vehicle"
+                            x:Name="Ingredients" />
+                </StackLayout>
+                <Button Text="Post"
+                        TextColor="White"
+                        BackgroundColor="#303F9F"
+                        x:Name="Post"
+                        Clicked="BtnPost_Clicked"/>
+ 
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
+

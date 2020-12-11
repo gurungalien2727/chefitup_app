@@ -1,0 +1,90 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/aliengurung/Projects/testApp/testApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11 pro-14.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret
